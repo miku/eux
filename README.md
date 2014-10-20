@@ -18,7 +18,7 @@ mine and to use for other kind of searches.
 
     > show me all *international agreements* between the *EU* and the *Kingdom of Norway*
 
-* Currency:
+* Currency
 
     > show me all documents, that mention sums between EUR 10000 and EUR 20000
 
